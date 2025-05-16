@@ -1,0 +1,31 @@
+{
+  "name": "contactapi",
+  "version": "1.0.0",
+  "description": "List all contact  and get contact by id or by name",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express",
+    "api",
+    "get",
+    "Request",
+    "post",
+    "request",
+    "http",
+    "htpps",
+    "backend",
+    "developer",
+    "fullstack"
+  ],
+  "author": "winsley jeune",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongo": "^0.1.0"
+  }
+}
